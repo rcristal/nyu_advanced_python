@@ -3,7 +3,7 @@ from setuptools import setup
 setup(name='date_simple',
       version='0.1',
       description='Wrapper module which provides a simplified interface to a few of the date functions of the datetime module.',
-      url='',
+      url='https://github.com/rcristal/nyu_advanced_python',
       author='Rexford Cristal',
       author_email='rexford.cristal@gmail.com',
       license='MIT',
